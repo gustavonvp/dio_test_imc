@@ -1,0 +1,14 @@
+{
+
+
+    "version":"0.2.0",
+    "configurations": [
+        {
+            "name": "",
+            "request": "launch",
+            "type": "dart",
+            "program": "bin/dio_test_imc.dart"
+          },
+      
+    ]
+}
